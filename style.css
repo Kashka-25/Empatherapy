@@ -90,6 +90,12 @@ header {
     color: #3A3A3A;
 }
 
+.logo img {
+    height: 50px;
+    width: auto;
+    display: block;
+}
+
 nav ul {
     list-style: none;
     display: flex;
